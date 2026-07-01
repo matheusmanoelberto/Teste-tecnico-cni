@@ -1,0 +1,10 @@
+﻿Joao Silva;Notebook;2;Alta
+Maria Souza;Mouse;5;Media
+Carlos Lima;Teclado;3;Baixa
+Ana Paula;Monitor;1;Alta
+Fernanda Costa;Headset;4;Media
+Ricardo Alves;Webcam;2;Baixa
+Patricia Gomes;Impressora;1;Alta
+Lucas Martins;SSD 1TB;6;Media
+Juliana Rocha;Memoria RAM 16GB;2;Alta
+Bruno Ferreira;Cadeira Ergonomica;1;Baixa

@@ -1,0 +1,4 @@
+Joao Silva;Notebook;2;Alta
+Joao Silva;Mouse;1;Alta
+Joao Silva;Teclado;1;Alta
+Maria Souza;Monitor;1;Media
