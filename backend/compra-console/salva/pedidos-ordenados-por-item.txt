@@ -1,0 +1,6 @@
+Numero;Solicitante;Prioridade;Item;Quantidade
+
+COMP-0002/2026;Maria Souza;Media;Monitor;1
+COMP-0001/2026;Joao Silva;Alta;Mouse;1
+COMP-0001/2026;Joao Silva;Alta;Notebook;2
+COMP-0001/2026;Joao Silva;Alta;Teclado;1

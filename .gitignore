@@ -25,12 +25,6 @@ pnpm-debug.log*
 !.env.example
 *.local
 
-# Generated exports
-salva/
-**/salva/
-resultado-solicitacoes.txt
-COMP-*.txt
-
 # IDEs and OS files
 .vs/
 .vscode/
