@@ -124,8 +124,3 @@ Build de producao:
 
 - `npm run build`
 - `npm run preview`
-
-## Observacoes
-
-- O backend esta focado em simplicidade, organizacao e aderencia ao escopo de prova.
-- As exportacoes ordenadas exibem um item por linha, com quantidade em coluna propria e protocolo repetido quando os itens pertencem ao mesmo pedido.
